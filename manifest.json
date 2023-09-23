@@ -2,7 +2,7 @@
     "theme_color": "#b51200",
     "background_color": "#fff",
     "display": "standalone",
-    "start_url": "https://www.multiproperty.id/",
+    "start_url": ".",
     "scope": "/",
     "prefer_related_applications": false,
     "name": "Multiproperty.id",
