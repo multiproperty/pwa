@@ -1,0 +1,60 @@
+{
+    "theme_color": "#b51200",
+    "background_color": "#fff",
+    "display": "standalone",
+    "start_url": "https://www.multiproperty.id/",
+    "prefer_related_applications": false,
+    "name": "Multiproperty.id",
+    "short_name": "Multiproperty.id",
+    "description": "Multi Property | Agen Property, Rumah, Ruko, Apartemen, Tanah Kavling Harga Murah, KPR Tanpa Ribet, Subsidi, Tanpa DP, Lokasi Strategis, Bunga Rendah",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHwM5D8QeeGmjoHuXyuNc4HRW07v9cS2n7v2ueDQSzawEE9bpeNw6VLYtrN-sEibkm1_zoH_tqdbPUsxo1mByoWiz6tauEa3ncWt1atiP2GgqBAmHqxXFP9PBgnXFE1wJW1PfSAsytcAOfR52AfJoSchD_Fhp9iZHTYpsW0WaGwYzT-gTBjW-rVaXJUI/s192/logo-header-multiproperty-id.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHwM5D8QeeGmjoHuXyuNc4HRW07v9cS2n7v2ueDQSzawEE9bpeNw6VLYtrN-sEibkm1_zoH_tqdbPUsxo1mByoWiz6tauEa3ncWt1atiP2GgqBAmHqxXFP9PBgnXFE1wJW1PfSAsytcAOfR52AfJoSchD_Fhp9iZHTYpsW0WaGwYzT-gTBjW-rVaXJUI/s192/logo-header-multiproperty-id.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHwM5D8QeeGmjoHuXyuNc4HRW07v9cS2n7v2ueDQSzawEE9bpeNw6VLYtrN-sEibkm1_zoH_tqdbPUsxo1mByoWiz6tauEa3ncWt1atiP2GgqBAmHqxXFP9PBgnXFE1wJW1PfSAsytcAOfR52AfJoSchD_Fhp9iZHTYpsW0WaGwYzT-gTBjW-rVaXJUI/s256/logo-header-multiproperty-id.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHwM5D8QeeGmjoHuXyuNc4HRW07v9cS2n7v2ueDQSzawEE9bpeNw6VLYtrN-sEibkm1_zoH_tqdbPUsxo1mByoWiz6tauEa3ncWt1atiP2GgqBAmHqxXFP9PBgnXFE1wJW1PfSAsytcAOfR52AfJoSchD_Fhp9iZHTYpsW0WaGwYzT-gTBjW-rVaXJUI/s256/logo-header-multiproperty-id.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHwM5D8QeeGmjoHuXyuNc4HRW07v9cS2n7v2ueDQSzawEE9bpeNw6VLYtrN-sEibkm1_zoH_tqdbPUsxo1mByoWiz6tauEa3ncWt1atiP2GgqBAmHqxXFP9PBgnXFE1wJW1PfSAsytcAOfR52AfJoSchD_Fhp9iZHTYpsW0WaGwYzT-gTBjW-rVaXJUI/s384/logo-header-multiproperty-id.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHwM5D8QeeGmjoHuXyuNc4HRW07v9cS2n7v2ueDQSzawEE9bpeNw6VLYtrN-sEibkm1_zoH_tqdbPUsxo1mByoWiz6tauEa3ncWt1atiP2GgqBAmHqxXFP9PBgnXFE1wJW1PfSAsytcAOfR52AfJoSchD_Fhp9iZHTYpsW0WaGwYzT-gTBjW-rVaXJUI/s384/logo-header-multiproperty-id.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHwM5D8QeeGmjoHuXyuNc4HRW07v9cS2n7v2ueDQSzawEE9bpeNw6VLYtrN-sEibkm1_zoH_tqdbPUsxo1mByoWiz6tauEa3ncWt1atiP2GgqBAmHqxXFP9PBgnXFE1wJW1PfSAsytcAOfR52AfJoSchD_Fhp9iZHTYpsW0WaGwYzT-gTBjW-rVaXJUI/s512/logo-header-multiproperty-id.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHwM5D8QeeGmjoHuXyuNc4HRW07v9cS2n7v2ueDQSzawEE9bpeNw6VLYtrN-sEibkm1_zoH_tqdbPUsxo1mByoWiz6tauEa3ncWt1atiP2GgqBAmHqxXFP9PBgnXFE1wJW1PfSAsytcAOfR52AfJoSchD_Fhp9iZHTYpsW0WaGwYzT-gTBjW-rVaXJUI/s512/logo-header-multiproperty-id.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
